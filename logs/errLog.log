@@ -1,0 +1,41 @@
+2023-08-10	15:11:05	94935770-a3a8-4278-883b-06de9d1c2cfc	Error: Not Allowed By Cors
+2023-08-10	15:11:05	c6788242-82c6-4eb7-99f9-89cb450ecd48	Error: Not Allowed By Cors
+2023-08-10	15:11:19	c2186b8c-97c9-47ba-86c8-067675d94276	Error: Not Allowed By Cors
+2023-08-10	15:11:19	3bb56b0b-635f-44dc-831b-a8ff6ad296c3	Error: Not Allowed By Cors
+2023-08-10	15:11:25	daf39478-fcab-4899-a199-f65d3bce0e11	Error: Not Allowed By Cors
+2023-08-10	15:11:25	eac032eb-2177-4d1d-b69c-a861e9c93f20	Error: Not Allowed By Cors
+2023-08-10	15:11:52	e25ab003-28e4-4dcb-93af-86f7375e1a63	Error: Not Allowed By Cors
+2023-08-10	15:11:52	5ebe2537-738f-44ae-a813-c4533af5d7bc	Error: Not Allowed By Cors
+2023-08-10	15:13:22	68db356a-328e-465d-a7ca-dcc65fe5dd47	Error: Not Allowed By Cors
+2023-08-10	15:13:22	09e17edc-c68d-4bd9-b0e2-b59906eb1c82	Error: Not Allowed By Cors
+2023-08-11	16:26:44	a2eed664-ef75-42eb-b74b-e30526bb43d6	CastError: Cast to ObjectId failed for value "NaN" (type number) at path "_id" for model "User"
+2023-08-11	19:27:05	72563d78-34e6-4463-bfa2-cde12f6094ea	ValidationError: Note validation failed: user: Cast to ObjectId failed for value "Naggar" (type string) at path "user" because of "BSONError"
+2023-08-11	19:49:08	2752dad7-2b31-4b51-b3dc-dec1c3e8d2ac	ValidationError: Note validation failed: user: Path `user` is required.
+2023-08-11	19:51:27	63b7ca84-ef72-4313-9008-92a6425aa9e6	ValidationError: Note validation failed: user: Path `user` is required.
+2023-08-11	19:53:22	d5505924-3aec-4d27-b0b2-be43cdab8971	ValidationError: Note validation failed: user: Path `user` is required.
+2023-08-11	20:41:27	a3941721-b858-4bff-8de2-eecae6cef713	MongooseError: Model.findOneAndUpdate() no longer accepts a callback
+2023-08-11	20:43:01	df19a499-7087-45bd-8593-de22d789ab94	MongooseError: Model.findOneAndUpdate() no longer accepts a callback
+2023-08-11	20:43:34	3351f46f-3051-4453-8730-92776b3e73c1	MongooseError: Model.findOneAndUpdate() no longer accepts a callback
+2023-08-11	20:48:49	0cc3e398-97ad-4a45-a7b2-dc3ac25ff59a	ObjectParameterError: Parameter "filter" to find() must be an object, got "ticket" (type string)
+2023-08-11	20:49:37	3754a3db-2a06-4d49-bb61-10f8ec7aa888	ReferenceError: ticket is not defined
+2023-08-11	21:09:33	35264624-d23e-4813-ad12-1e7f1d5a5cde	TypeError: Counter.find(...).at is not a function
+2023-08-11	21:10:04	646b74fd-5b8f-4c7d-864f-e1320ccfc4ac	MongooseError: document must have an _id before saving
+2023-08-11	21:11:47	3f4f42f3-0afd-4656-9bf9-57131a37116e	MongooseError: document must have an _id before saving
+2023-08-11	21:12:35	06d300dc-e64d-4b60-acf7-7d530675ae39	MongooseError: document must have an _id before saving
+2023-08-11	21:14:09	44f0af90-884e-44a3-9eee-689e45d35b2a	TypeError: Cannot read properties of undefined (reading 'ticketsNum')
+2023-08-11	22:19:16	ae42db9c-c594-4037-82b6-c1e9c40217a6	SyntaxError: Unexpected token ] in JSON at position 160
+2023-08-13	11:23:00	325dff96-d784-423e-a368-bbfba3b37c06	SyntaxError: Unexpected token } in JSON at position 114
+2023-08-13	11:56:56	3a8352e5-de9c-4155-8e2a-ca14ddef8937	ObjectParameterError: Parameter "filter" to findOne() must be an object, got "64d63f613053214207179a62" (type string)
+2023-08-14	16:29:45	c74e295b-8100-48f8-bc58-74cf7d25ea8f	TypeError: Cannot read properties of undefined (reading 'includes')
+2023-08-14	16:30:07	5507f8e2-1fd5-4bc3-b674-a6b80fb01810	TypeError: Cannot read properties of undefined (reading 'includes')
+2023-08-14	16:30:48	bc16b4fd-be72-444d-92e1-fb7c32969e8f	TypeError: Cannot read properties of undefined (reading 'includes')
+2023-08-14	16:32:27	6474404d-b32a-4f54-90fc-dc571dcea531	TypeError: Cannot read properties of undefined (reading 'includes')
+2023-08-14	16:34:41	ca971e00-ce41-4481-bd4d-6b1f880248ba	TypeError: Cannot read properties of undefined (reading 'includes')
+2023-08-14	16:35:52	ab5a2e39-6975-49d5-acee-002aee7327a4	TypeError: Cannot read properties of undefined (reading 'includes')
+2023-08-14	16:37:51	c2f0e7e4-7135-48c2-b975-989e045501f6	TypeError: Cannot read properties of undefined (reading 'includes')
+2023-08-14	16:38:07	1a84df68-81ae-4bff-921e-09a408145ca9	TypeError: Cannot read properties of undefined (reading 'includes')
+2023-08-14	16:38:26	f08cf2a6-87fd-4224-8481-f44b09bf3ad1	TypeError: Cannot read properties of undefined (reading 'includes')
+2023-08-14	16:38:29	767e31fd-4ff6-486f-8640-fceca0dff6a9	TypeError: Cannot read properties of undefined (reading 'includes')
+2023-08-14	16:38:30	99ba4fd3-47a9-452c-acd6-9965074e9925	TypeError: Cannot read properties of undefined (reading 'includes')
+2023-08-14	16:39:28	ecc9e150-c902-4f76-b175-f67dc9b3d228	TypeError: Cannot read properties of undefined (reading 'includes')
+2023-08-14	17:51:28	f89b3368-a3ac-4057-bde3-e3f8ede38f7a	TypeError: Cannot read properties of undefined (reading 'includes')
